@@ -25,7 +25,3 @@ topics:
   - developer-tools
   - curl
   - debug
-
-# Optional: helpful metadata
-platforms:
-  - dart
