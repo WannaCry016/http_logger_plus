@@ -31,6 +31,7 @@ Add the dependency to your `pubspec.yaml`:
 ```yaml
 dependencies:
   http_logger_plus: ^0.0.1
+```
 
 ---
 
